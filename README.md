@@ -4,7 +4,7 @@ By Shubham
 
 Here's the Live Deployed Website ![Project 14](https://img.shields.io/badge/Project-14-brightgreen)
 
-## [DEPLOYED WEBSITE LINK](https://businesssolution.netlify.app/)
+## [DEPLOYED WEBSITE LINK](https://icreativity.netlify.app/)
 
 ![Completed Website](./readmeImages/completedScreenshot.jpg)
 
